@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\51dp\\vuforia-sdk-android-6-0-117(2)\\samples\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_up.xml",
+        "source": "F:\\51dp\\vuforia-sdk-android-6-0-117(2)\\samples\\app\\src\\main\\res\\anim\\bottom_up.xml"
+    },
+    {
+        "merged": "F:\\51dp\\vuforia-sdk-android-6-0-117(2)\\samples\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_down.xml",
+        "source": "F:\\51dp\\vuforia-sdk-android-6-0-117(2)\\samples\\app\\src\\main\\res\\anim\\bottom_down.xml"
+    },
+    {
+        "merged": "F:\\51dp\\vuforia-sdk-android-6-0-117(2)\\samples\\demo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_up.xml",
+        "source": "F:\\51dp\\vuforia-sdk-android-6-0-117(2)\\samples\\demo\\app\\src\\main\\res\\anim\\bottom_up.xml"
+    },
+    {
+        "merged": "F:\\51dp\\vuforia-sdk-android-6-0-117(2)\\samples\\demo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_down.xml",
+        "source": "F:\\51dp\\vuforia-sdk-android-6-0-117(2)\\samples\\demo\\app\\src\\main\\res\\anim\\bottom_down.xml"
+    }
+]
